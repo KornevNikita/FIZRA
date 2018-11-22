@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<versus>
+	<player1>Vlad</player1>
+	<player1A>Vlad</player1A>
+	<player1B />
+	<player2>Egor</player2>
+	<player2A>Egor</player2A>
+	<player2B />
+	<score1>5</score1>
+	<score1A>5</score1A>
+	<score1B />
+	<score2>4</score2>
+	<score2A>4</score2A>
+	<score2B />
+	<match />
+	<matchA />
+	<matchB />
+	<game />
+	<gameA />
+	<gameB />
+	<visible>true</visible>
+	<time>636781591326778716</time>
+</versus>

@@ -1,0 +1,168 @@
+.t1 {
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720/team1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #1465aa;
+	font-weight: bold;
+}
+
+.t2 {
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720/team2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #1465aa;
+	font-weight: bold;
+}
+
+.t1p1 
+{
+    top: 120px;
+	position: fixed;
+	left: -1000px;            
+	background: url('../stuff/1280_720/t1.png');
+	width: 640px;
+	height: 120px;           
+	text-align: center;                      
+	font-size: 40px;            
+	line-height: 120px;
+	font-family: 'Exo 2', sans-serif;   
+    color: #ffffff;	
+}
+
+.t2p1 {
+    top: 120px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}
+
+.t1p2 {
+    top: 240px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720/t1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}
+
+.t2p2 {
+    top: 240px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}
+
+.t1p3 {
+    top: 360px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720/t1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}
+
+.t2p3 {
+    top: 360px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}
+
+.t1p4 {
+    top: 480px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720/t1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}
+
+.t2p4 {
+    top: 480px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}
+
+.t1p5 {
+    top: 600px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720/t1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}
+
+.t2p5 {
+    top: 600px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 120px;
+    
+	color: #ffffff;	
+}

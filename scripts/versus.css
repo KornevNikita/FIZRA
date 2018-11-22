@@ -1,0 +1,59 @@
+.player1
+{ 
+    background: url('../stuff/player1.png'); 
+    width: 900px; 
+    height: 200px; 
+    text-align: center;
+    font-size: 140px;
+    line-height: 200px; 
+	font-family: 'Exo 2', sans-serif;
+	position: fixed;
+	left: 0;
+}
+
+.player2
+{
+	background: url('../stuff/player2.png'); 
+    width: 900px; 
+    height: 200px; 
+    text-align: center;
+    font-size: 140px;
+    line-height: 200px; 
+	font-family: 'Exo 2', sans-serif;
+	position: fixed;
+	left: 1700;
+}
+
+.scores 
+{ 
+    background: url('../stuff/score.png'); 
+    width: 300px; 
+    height: 200px; 
+    text-align: center;
+    font-size: 140px;
+	color: #1465aa;
+    line-height: 200px; 
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+.scores1
+{
+	position: fixed;
+	left: 900px;
+}
+
+.scores2
+{
+	position: fixed;
+	left: 1400px;
+}
+
+.logo 
+{ 
+	background: url('../stuff/only_logo.png');
+    width: 200px; 
+    height: 200px;
+	position: fixed;
+	left: 1200px;
+}
+

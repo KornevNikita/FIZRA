@@ -1,0 +1,168 @@
+.t1 {
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/team1.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #1465aa;
+	font-weight: bold;
+}
+
+.t2 {
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/team2.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #1465aa;
+	font-weight: bold;
+}
+
+.t1p1 
+{
+    top: 180px;
+	position: fixed;
+	left: -1000px;            
+	background: url('../stuff/t1.png');
+	width: 960px;
+	height: 180px;           
+	text-align: center;                      
+	font-size: 70px;            
+	line-height: 180px;
+	font-family: 'Exo 2', sans-serif;   
+    color: #ffffff;	
+}
+
+.t2p1 {
+    top: 180px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/t2.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}
+
+.t1p2 {
+    top: 360px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/t1.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}
+
+.t2p2 {
+    top: 360px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/t2.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}
+
+.t1p3 {
+    top: 540px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/t1.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}
+
+.t2p3 {
+    top: 540px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/t2.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}
+
+.t1p4 {
+    top: 720px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/t1.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}
+
+.t2p4 {
+    top: 720px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/t2.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}
+
+.t1p5 {
+    top: 900px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/t1.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}
+
+.t2p5 {
+    top: 900px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/t2.png');
+    width: 960px;
+    height: 180px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 180px;
+    font-family: 'Exo 2', sans-serif;
+	color: #ffffff;	
+}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<settings>
+		<enableXml>True</enableXml>
+		<enableWss>False</enableWss>
+		<ontop>False</ontop>
+		<snapto>False</snapto>
+		<prefix>Recording</prefix>
+		<versus>VS</versus>
+		<teams>&amp;</teams>
+		<aorb>A</aorb>
+	</settings>
+	<tabs>
+		<item type="trophy2" name="versus" auto="true">
+			<head>Scoreboard</head>
+		</item>
+		<item type="timer" name="timer" auto="true">
+			<head>Timer</head>
+		</item>
+		<item type="text" name="а" auto="true">
+			<head>а</head>
+		</item>
+	</tabs>
+</config>

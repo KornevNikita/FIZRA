@@ -1,0 +1,7 @@
+body {
+	position: absolute; width: 1920px; margin: 0 auto; overflow: hidden; white-space: nowrap;
+	color: #FFF; font: bold 16px 'Century Gothic'; line-height: 30px; text-align: center;
+	text-shadow: 1px 1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, -1px -1px 0 #000;
+}
+
+.overflow { overflow: hidden; text-overflow: ellipsis; }
