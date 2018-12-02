@@ -1,0 +1,191 @@
+.t1 {
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720_new/team1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 70px;
+    line-height: 140px;
+	/* color: #1465aa; */
+	color: #ffd700;
+	/* font-weight: bold; */
+	font-family: MatchTV-Bold;
+}
+
+.t2 {
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720_new/team2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 70px;
+    font-size: 70px;
+    line-height: 140px;
+    
+	/* color: #1465aa; */
+	color: #ffd700;
+	/* font-weight: bold; */
+	font-family: MatchTV-Bold;
+}
+
+.t1p1 
+{
+    top: 120px;
+	position: fixed;
+	left: -1000px;            
+	background: url('../stuff/1280_720_new/t1.png');
+	width: 640px;
+	height: 120px;           
+	text-align: center;                      
+	font-size: 40px;            
+	line-height: 140px;
+	font-family: 'Exo 2', sans-serif;   
+    color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t2p1 {
+    top: 120px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720_new/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t1p2 {
+    top: 240px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720_new/t1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t2p2 {
+    top: 240px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720_new/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t1p3 {
+    top: 360px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720_new/t1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t2p3 {
+    top: 360px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720_new/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t1p4 {
+    top: 480px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720_new/t1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t2p4 {
+    top: 480px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720_new/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t1p5 {
+    top: 600px;
+    position: fixed;
+    left: -1000px;
+    background: url('../stuff/1280_720_new/t1.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+.t2p5 {
+    top: 600px;
+    position: fixed;
+    right: -1000px;
+    background: url('../stuff/1280_720_new/t2.png');
+    width: 640px;
+    height: 120px;
+    text-align: center;
+    font-size: 40px;
+    line-height: 140px;
+    
+	color: #ffffff;	
+	font-family: MatchTV-Bold;
+}
+
+
+@font-face{
+font-family: "MatchTV-Bold"; 
+src: url("fonts/MatchTV-Bold.eot"); 
+src: url("fonts/MatchTV-Bold.eot?#iefix") format("embedded-opentype"),url("fonts/MatchTV-Bold.woff") format("woff"), url("fonts/MatchTV-Bold.ttf") format("truetype"); 
+font-style: normal; 
+font-weight: normal; 
+}
