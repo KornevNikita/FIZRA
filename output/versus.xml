@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <versus>
-	<player1>ННГУ</player1>
-	<player1A>ННГУ</player1A>
+	<player1>Vasyan</player1>
+	<player1A>Vasyan</player1A>
 	<player1B />
-	<player2>НГПУ</player2>
-	<player2A>НГПУ</player2A>
+	<player2>Vlad</player2>
+	<player2A>Vlad</player2A>
 	<player2B />
-	<score1>157</score1>
-	<score1A>157</score1A>
+	<score1>0</score1>
+	<score1A>0</score1A>
 	<score1B />
-	<score2>107</score2>
-	<score2A>107</score2A>
+	<score2>0</score2>
+	<score2A>0</score2A>
 	<score2B />
 	<match />
 	<matchA />
@@ -19,5 +19,5 @@
 	<gameA />
 	<gameB />
 	<visible>true</visible>
-	<time>636787445138157751</time>
+	<time>636793462389816968</time>
 </versus>
