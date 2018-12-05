@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <versus>
-	<player1>Vasya</player1>
-	<player1A>Vasya</player1A>
+	<player1>ННГУ</player1>
+	<player1A>ННГУ</player1A>
 	<player1B />
-	<player2>Petya</player2>
-	<player2A>Petya</player2A>
+	<player2>КОР ПК</player2>
+	<player2A>КОР ПК</player2A>
 	<player2B />
-	<score1>5</score1>
-	<score1A>5</score1A>
+	<score1>0</score1>
+	<score1A>0</score1A>
 	<score1B />
 	<score2>0</score2>
 	<score2A>0</score2A>
@@ -15,9 +15,9 @@
 	<match>1qt</match>
 	<matchA>1qt</matchA>
 	<matchB />
-	<game>рандомная надпись</game>
-	<gameA>рандомная надпись</gameA>
+	<game />
+	<gameA />
 	<gameB />
 	<visible>true</visible>
-	<time>636794787943854724</time>
+	<time>636796212961939495</time>
 </versus>
