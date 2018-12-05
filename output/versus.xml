@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <versus>
-	<player1>Vlad</player1>
-	<player1A>Vlad</player1A>
+	<player1>Egor</player1>
+	<player1A>Egor</player1A>
 	<player1B />
-	<player2>234123487</player2>
-	<player2A>234123487</player2A>
+	<player2>Dima</player2>
+	<player2A>Dima</player2A>
 	<player2B />
-	<score1>93</score1>
-	<score1A>93</score1A>
+	<score1>8</score1>
+	<score1A>8</score1A>
 	<score1B />
-	<score2>72</score2>
-	<score2A>72</score2A>
+	<score2>1</score2>
+	<score2A>1</score2A>
 	<score2B />
 	<match>228</match>
 	<matchA>228</matchA>
@@ -19,5 +19,5 @@
 	<gameA />
 	<gameB />
 	<visible>true</visible>
-	<time>636796315084226712</time>
+	<time>636796479727154633</time>
 </versus>

@@ -1,7 +1,7 @@
 var fileUrl = "output/versus.xml";
-var upSpeed = 500;
-var inSpeed = 500;
-var outSpeed = 500;
+var upSpeed = 1000;
+var inSpeed = 1000;
+var outSpeed = 1000;
 
 var p1, p2, s1, s2, mm, gg;
 
@@ -50,6 +50,7 @@ function getResponse() {
 	    $('.scores2').animate({ $animation: 'shadow1 0.5s infinite alternate ' }, 800).then(function () {
 	        $('.scores2').animate({ $animation: 'shadow1 1s reverse' }, 800).then(function () { updating = false; });
 	    });
+	}
 
 
 		if ($('#gg').get("innerHTML") != gg) {
