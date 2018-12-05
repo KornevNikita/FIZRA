@@ -27,7 +27,7 @@ function getResponse() {
 	        $('#mm').set("innerHTML", mm);
 	        $('.quarter').animate({ $opacity: '1' }, 1000).then(function () { updating = false; });
 	    });
-	} 
+	}
 
 	if ($('#p1').get("innerHTML") != p1 || $('#p2').get("innerHTML") != p2) {
 
@@ -36,17 +36,21 @@ function getResponse() {
 	}
 
 	if ($('#s1').get("innerHTML") != s1) {
-	    $('.scores1').animate({ $animation: 'shadow1 2s infinite ' }, 2000).then(function () {
-	        $('#s1').set("innerHTML", s1);
-	        $('.scores1').animate({ $animation: 'shadow1 4s reverse' }, 4000).then(function () { updating = false; });
+	    $('#s1').set("innerHTML", s1);
+	    $('.scores1').animate({ $animation: 'shadow1 0.5s infinite alternate ' }, 800).then(function () {
+	        $('.scores1').animate({ $animation: 'shadow1 1s reverse' }, 800).then(function () { updating = false; });
 	    });
 	}
+
+
+
+
 	if ($('#s2').get("innerHTML") != s2) {
-	    $('.scores2').animate({ $color: '#0069AD' }, 500).then(function () {
-	        $('#s2').set("innerHTML", s2);
-	        $('.scores2').animate({ $color: 'white' }, 1500).then(function () { updating = false; });
+	    $('#s2').set("innerHTML", s2);
+	    $('.scores2').animate({ $animation: 'shadow1 0.5s infinite alternate ' }, 800).then(function () {
+	        $('.scores2').animate({ $animation: 'shadow1 1s reverse' }, 800).then(function () { updating = false; });
 	    });
-	}
+
 
 		if ($('#gg').get("innerHTML") != gg) {
 				$('#gg').set("innerHTML", gg);
