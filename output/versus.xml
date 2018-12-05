@@ -6,18 +6,18 @@
 	<player2>КОР ПК</player2>
 	<player2A>КОР ПК</player2A>
 	<player2B />
-	<score1>0</score1>
-	<score1A>0</score1A>
+	<score1>100</score1>
+	<score1A>100</score1A>
 	<score1B />
-	<score2>0</score2>
-	<score2A>0</score2A>
+	<score2>5</score2>
+	<score2A>5</score2A>
 	<score2B />
-	<match>1qt</match>
-	<matchA>1qt</matchA>
+	<match>2qt</match>
+	<matchA>2qt</matchA>
 	<matchB />
 	<game />
 	<gameA />
 	<gameB />
 	<visible>true</visible>
-	<time>636796212961939495</time>
+	<time>636796441179006576</time>
 </versus>
