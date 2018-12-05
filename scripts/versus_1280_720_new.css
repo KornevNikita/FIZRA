@@ -1,16 +1,16 @@
 .player
 {
 	font-family: MatchTV-Bold;
-	background: url('../stuff/1280_720_new/player.png'); 
-  width: 340px; 
-  height: 100px; 
+	background: url('../stuff/1280_720_new/player.png');
+  width: 340px;
+  height: 100px;
 	text-align: center;
   font-size: 70px;
-	line-height: 120px; 
+	line-height: 120px;
 }
 
 .player1
-{ 
+{
 	position: fixed;
   left: 250px;
 }
@@ -21,34 +21,34 @@
 	left:690px;
 }
 
-.scores 
-{ 
+.scores
+{
   font-family: MatchTV-Bold;
 	position: fixed;
-  width: 150px; 
-  height: 100px; 
+  width: 150px;
+  height: 100px;
   text-align: center;
   font-size: 60px;
 	color: #FFFFFF;
-  line-height: 120px; 
+  line-height: 120px;
 }
 
 .scores1
 {
-  background: url('../stuff/1280_720_new/score1.png'); 
+  background: url('../stuff/1280_720_new/score1.png');
 	left: 0px;
 }
 
 .scores2
 {
-  background: url('../stuff/1280_720_new/score2.png'); 
+  background: url('../stuff/1280_720_new/score2.png');
 	left: 1130px;
 }
 
-.logo 
-{ 
+.logo
+{
 	background: url('../stuff/1280_720_new/logo.png');
-  width: 100px; 
+  width: 100px;
   height: 100px;
 	position: fixed;
 	left: 590px;
@@ -57,7 +57,7 @@
 .team_space
 {
 	background: url('../stuff/1280_720_new/team_logo.png');
-	width: 100px; 
+	width: 100px;
   height: 100px;
 	position: fixed;
 }
@@ -72,12 +72,51 @@
 	left: 1030px;
 }
 
-@font-face{
-font-family: "MatchTV-Bold"; 
-src: url("fonts/MatchTV-Bold.eot"); 
-src: url("fonts/MatchTV-Bold.eot?#iefix") format("embedded-opentype"),url("fonts/MatchTV-Bold.woff") format("woff"), url("fonts/MatchTV-Bold.ttf") format("truetype"); 
-font-style: normal; 
-font-weight: normal; 
+.additional
+{
+  width: 590px;
+  height: 40px;
+  background: url('../stuff/1280_720_new/additional.png');
+  position: fixed;
+}
+
+.additional1{
+	left: 0px;
+	top: 100px;
+	font-size: 35px;
+	font-family: MatchTV-Bold;
+	line-height: 50px;
+	text-align: center;
+}
+
+.additional2{
+	left: 690px;
+	top: 100px;
+	font-size: 35px;
+	font-family: MatchTV-Bold;
+	line-height: 50px;
+	text-align: center;
+}
+
+.quarter
+{
+	width: 100px;
+	height: 40px;
+	background: url('../stuff/1280_720_new/quarter.png');
+	position: fixed;
+	left: 590px;
+	top: 100px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 35px;
+	font-family: MatchTV-Bold;
 }
 
 
+@font-face{
+font-family: "MatchTV-Bold";
+src: url("fonts/MatchTV-Bold.eot");
+src: url("fonts/MatchTV-Bold.eot?#iefix") format("embedded-opentype"),url("fonts/MatchTV-Bold.woff") format("woff"), url("fonts/MatchTV-Bold.ttf") format("truetype");
+font-style: normal;
+font-weight: normal;
+}

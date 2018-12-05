@@ -14,11 +14,5 @@
 		<item type="trophy2" name="versus" auto="true">
 			<head>Scoreboard</head>
 		</item>
-		<item type="timer" name="timer" auto="true">
-			<head>Timer</head>
-		</item>
-		<item type="text" name="а" auto="true">
-			<head>а</head>
-		</item>
 	</tabs>
 </config>
