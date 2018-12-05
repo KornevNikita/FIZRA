@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <versus>
-	<player1>Vasyan</player1>
-	<player1A>Vasyan</player1A>
+	<player1>Vlad</player1>
+	<player1A>Vlad</player1A>
 	<player1B />
-	<player2>Vlad</player2>
-	<player2A>Vlad</player2A>
+	<player2>234123487</player2>
+	<player2A>234123487</player2A>
 	<player2B />
-	<score1>0</score1>
-	<score1A>0</score1A>
+	<score1>93</score1>
+	<score1A>93</score1A>
 	<score1B />
-	<score2>0</score2>
-	<score2A>0</score2A>
+	<score2>72</score2>
+	<score2A>72</score2A>
 	<score2B />
-	<match />
-	<matchA />
+	<match>228</match>
+	<matchA>228</matchA>
 	<matchB />
 	<game />
 	<gameA />
 	<gameB />
 	<visible>true</visible>
-	<time>636793462389816968</time>
+	<time>636796315084226712</time>
 </versus>

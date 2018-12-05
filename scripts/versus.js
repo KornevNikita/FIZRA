@@ -23,7 +23,7 @@ function getResponse() {
 	if (timeOld == timeNew) return;
 
 	if ($('#mm').get("innerHTML") != mm) {
-	    $('.quarter').animate({ $opacity: '0' }, 1000).then(function () {
+	    $('.quarter').animate({ $opacity: '0'}, 1000).then(function () {
 	        $('#mm').set("innerHTML", mm);
 	        $('.quarter').animate({ $opacity: '1' }, 1000).then(function () { updating = false; });
 	    });
@@ -36,9 +36,9 @@ function getResponse() {
 	}
 
 	if ($('#s1').get("innerHTML") != s1) {
-	    $('.scores1').animate({ $color: '#0069AD' }, 1000).then(function () {
+	    $('.scores1').animate({ $animation: 'shadow1 2s infinite ' }, 2000).then(function () {
 	        $('#s1').set("innerHTML", s1);
-	        $('.scores1').animate({ $color: 'white' }, 1000).then(function () { updating = false; });
+	        $('.scores1').animate({ $animation: 'shadow1 4s reverse' }, 4000).then(function () { updating = false; });
 	    });
 	}
 	if ($('#s2').get("innerHTML") != s2) {
